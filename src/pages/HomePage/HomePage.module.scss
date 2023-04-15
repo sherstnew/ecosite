@@ -1,0 +1,20 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.scrollDown_wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 85vh;
+  width: 100%;
+}
+
+.scrollDown {
+  width: 200px;
+  height: 100px;
+  cursor: pointer;
+  transition: 0.5s;
+}

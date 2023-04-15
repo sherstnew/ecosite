@@ -1,0 +1,32 @@
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: #f5f7f8;
+}
+
+.about__text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 50%;
+}
+
+.header {
+  width: 80%;
+  font-size: 50px;
+}
+
+.plain {
+  width: 80%;
+  font-size: 20px;
+  text-align: justify;
+  margin-top: 20px;
+}
+
+.about__img {
+  width: 50%;
+}
