@@ -19,6 +19,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
   animation: show 2s 1;
+  color: #1d1d1d;
 }
 
 code {
